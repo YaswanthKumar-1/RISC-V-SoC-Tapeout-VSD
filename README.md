@@ -35,8 +35,10 @@ Yosys
       $ make -j$(nproc)
       $ sudo make install
 
-Alt Text
-Iverilog
+![Yosys Installation](week0/task0/images/yosys installation.png)
+  
+  
+  Iverilog
 
     $ sudo apt-get update
     $ sudo apt-get install iverilog
