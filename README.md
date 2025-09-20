@@ -35,7 +35,8 @@ Yosys
       $ make -j$(nproc)
       $ sudo make install
 
-![Yosys Installation](week0/task0/images/yosys installation.png)
+![Yosys Installation](week0/task0/images/yosys_installation.png)
+![Yosys Installation](week0/task0/images/yosys_installation.png)
   
   
   Iverilog
