@@ -36,18 +36,20 @@ Yosys
       $ sudo make install
 
 ![Yosys Installation](week0/task0/images/yosys_installation.png)
-![Yosys Installation](week0/task0/images/yosys_installation.png)
+![Yosys make](week0/task0/images/yosys_make.png)
   
   
   Iverilog
 
     $ sudo apt-get update
     $ sudo apt-get install iverilog
-
-Alt Text
+![IVRILOG](week0/task0/images/iverilog_installation.png)
+    
 gtkwave
 
     $ sudo apt-get update
     $ sudo apt install gtkwave
+    
 
-Alt Text
+![gtkwave](week0/task0/images/gtkwave.png)
+![gtkwave install](week0/task0/images/gtkwave_install.png)
