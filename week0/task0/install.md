@@ -43,7 +43,7 @@ Yosys
 
     $ sudo apt-get update
     $ sudo apt-get install iverilog
-![IVRILOG](week0/task0/images/iverilog_installation.png)
+![IVERILOG](week0/task0/images/iverilog_installation.png)
     
 gtkwave
 
