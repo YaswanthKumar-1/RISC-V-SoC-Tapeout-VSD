@@ -10,7 +10,7 @@ The program teaches us to design a System-on-Chip (SoC) from basic RTL to GDSII 
 
 | Task | Description | Status |
 | :--- | :--- | :--- |
-[Task 0](Week0/Task0/install.md)| Task 0 | Tools Installation: Installed and verified Iverilog, Yosys, and GTKWave. | Done |
+[Task 0](week0/task0/install.md)| Task 0 | Tools Installation: Installed and verified Iverilog, Yosys, and GTKWave. | Done |
 
 ### Key Learnings from Week 0
 * I successfully installed open-source EDA tools.
